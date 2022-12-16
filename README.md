@@ -84,6 +84,8 @@ Kotlin, XML
 
 ## Screenshots
 
+![splash_screen](https://user-images.githubusercontent.com/97422476/208085292-630be95d-f62c-4b4b-a6da-de9afc7d22ee.png)
+
 ![app_scrn 4](https://user-images.githubusercontent.com/97422476/206977139-a834a425-dc64-4e1d-9a45-9c37733992ae.jpg)
 
 
