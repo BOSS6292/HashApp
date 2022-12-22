@@ -62,16 +62,9 @@ Here are some related projects
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## 🚀 About Me
-I'm an Android Developer
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at tbomble6292@gmail.com
-
-
-# Hi, I'm Tejas! 👋
 
 
 ## 🛠 Skills
