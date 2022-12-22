@@ -1,7 +1,5 @@
 # HashApp
 
-# Hash App
-
 Hash Generator is an Android App fully developed in Kotlin using Android Studio. Its primary purpose is to take text input and create hash output using algorithms like MD5, and SHA-256. This app is simple, but it also has some beautiful animations! The Hash Generator processor creates a Hash key for each input attribute. The output Hash key will be the same (and unique) for each distinct data value that is input to it. Hashing involves applying a hashing algorithm to a data item, known as the hashing key, to create a hash value. Hashing algorithms take a large range of values (such as all possible strings or all possible files) and map them onto a smaller set of values (such as a 128 bit number).
 
 
